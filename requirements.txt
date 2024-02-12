@@ -1,0 +1,8 @@
+langchain==0.0.316
+openai==0.28.1 
+qdrant-client==1.5.0 
+tiktoken==0.4.0 
+cohere==4.24 
+llama-index 
+docx2txt 
+streamlit==1.26.0
